@@ -1,0 +1,298 @@
+{
+  "basics": {
+    "name": "Christopher Obando",
+    "label": "Teaching Assistant at Georgia Institute of Technology",
+    "picture": "",
+    "email": "chrisjobando@gatech.edu",
+    "phone": "",
+    "website": "http://www.chrisjobando.com",
+    "summary": "Hey there!\nCurrently on my third-year as a Computer Science Major at the Georgia Institute of Technology, I have three years of experience of software development in React, Java and Python. I am a results-driven programmer with academic, professional and extracurricular experience in collaborative projects, passionate about accessibility driven design and accustomed to working in fast paced Agile development cycles.\nI am actively looking for a Mobile Application Development Internship or Co-Op starting Fall 2020.",
+    "location": {
+      "address": "349 Bella Rose Drive, Evans GA 30809",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "chrisjobando",
+        "url": "https://www.linkedin.com/in/chrisjobando/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Georgia Institute of Technology",
+      "endDate": "",
+      "highlights": [],
+      "position": "Teaching Assistant",
+      "startDate": "2020-01-31",
+      "summary": "CS 2261 - Media Device Architectures",
+      "website": "https://www.linkedin.com/school/georgia-institute-of-technology/"
+    },
+    {
+      "company": "Elavon, Inc.",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "position": "Software Developer Intern",
+      "startDate": "2019-08-31",
+      "summary": "• Reduced security threats detected through Fortify Security Software by implementing safer coding solutions\n• Worked in a diverse Agile/Scrum team of developers and QA  engineers on the Elavon Bridge application\n• Obtained exposure to the Jenkins automation server and used it to build, test and deploy new versions of the software\n• Designed JUnit test cases to detect bugs and fix them\n• Presented all development changes during daily Standup meetings and biweekly Sprint Review meetings",
+      "website": "https://www.linkedin.com/company/elavon-inc/"
+    },
+    {
+      "company": "Georgia Institute of Technology",
+      "endDate": "2018-12-31",
+      "highlights": [],
+      "position": "Computational Services Intern",
+      "startDate": "2018-02-28",
+      "summary": "• Operated under the Office of Information Technology for the Ivan Allen College of Liberal Arts\nand DILAC VR Lab\n• Provided technical support for professors and students in three separate buildings on campus\n• Diagnosed issues with machines and was dispatched to fix both software and hardware issues",
+      "website": "https://www.linkedin.com/school/georgia-institute-of-technology/"
+    },
+    {
+      "company": "Johnson, Laschober & Associates, P.C.",
+      "endDate": "2017-02-28",
+      "highlights": [],
+      "position": "Electrical Engineering Intern",
+      "startDate": "2016-08-31",
+      "summary": "• Served as intern for Electrical Engineer Alan Gregg\n• Worked in AutoCAD to design and correct plots for several clients\n• Researched National Electrical Code and gave input on design solutions for various projects",
+      "website": "https://www.linkedin.com/company/johnson-laschober-&-associates-p.c./"
+    },
+    {
+      "company": "Chick-fil-A-Franchise",
+      "endDate": "2016-09-30",
+      "highlights": [],
+      "position": "Kitchen Staff/ Front Counter Employee",
+      "startDate": "2015-12-31",
+      "summary": "• Kitchen operations, cleanliness, safe food preparations, working in a team environment to increase efficiency\n• Cashier and front counter duties that depended on serving guests based on company ideals",
+      "website": "https://www.linkedin.com/company/chick-fil-a-franchise/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bits of Good",
+      "position": "Director Of Community Relations",
+      "website": "https://www.linkedin.com/company/gtbitsofgood/",
+      "startDate": "2019-12-31",
+      "endDate": "",
+      "summary": "Leading internal events, planning community outreach, increasing club morale, and public relations management",
+      "highlights": []
+    },
+    {
+      "organization": "Bits of Good",
+      "position": "Frontend Web Developer",
+      "website": "https://www.linkedin.com/company/gtbitsofgood/",
+      "startDate": "2019-08-31",
+      "endDate": "",
+      "summary": "Frontend developer working in React, Redux, Express, and NextJS\n\nCurrently working on an internal tool to formally migrate the onboarding process for nonprofits to the organization website. Before it was done purely over email.",
+      "highlights": []
+    },
+    {
+      "organization": "Code for Atlanta",
+      "position": "Software Engineer",
+      "website": "https://www.linkedin.com/company/codeforatlanta/",
+      "startDate": "2019-09-30",
+      "endDate": "",
+      "summary": "Designing and implementing software solutions for underrepresented groups/nonprofits in Atlanta",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2017-12-31",
+      "endDate": "2021-12-31",
+      "gpa": "Third Year",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Carlos III de Madrid",
+      "area": "Computer Science",
+      "studyType": "Exchange Student",
+      "startDate": "2019-12-31",
+      "endDate": "2019-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Philanthropy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Collaborative Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Application Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Structures",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Principles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience Design (UED)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JUnit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Film Production",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Servant Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spanish",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interaction",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MERN Stack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SASS",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

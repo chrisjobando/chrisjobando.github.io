@@ -1,6 +1,9 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
+// Components
+import NavBar from '../components/NavBar';
+
 const ResumePage = () => (
   <div>
     <Helmet>
@@ -8,6 +11,7 @@ const ResumePage = () => (
       <title>Resume | Christopher Obando</title>
       <html lang="en" />
     </Helmet>
+    <NavBar />
   </div>
 );
 
