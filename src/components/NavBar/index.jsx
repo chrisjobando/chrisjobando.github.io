@@ -1,15 +1,21 @@
-import React from 'react';
-import { graphql, useStaticQuery } from 'gatsby';
+import React, { useState } from 'react';
+import { graphql, useStaticQuery, Link } from 'gatsby';
 import Img from 'gatsby-image';
 
 // Menu Icon
 import { Icon } from '@iconify/react';
 import menu from '@iconify/icons-mdi/menu';
+import closeIcon from '@iconify/icons-mdi/close';
+
+// Nav Menu Component
+import NavMenu from './NavMenu';
 
 // Styling
 import style from './navbar.module.scss';
 
 export default () => {
+  const [navOpen, toggle] = useState(false);
+
   const data = useStaticQuery(graphql`
     query {
       file(relativePath: { eq: "logo.png" }) {
@@ -29,9 +35,23 @@ export default () => {
       <div className={style.Background} />
       <div className={style.Container}>
         <div />
-        <Img fixed={data.file.childImageSharp.fixed} />
-        <Icon icon={menu} width="32px" />
+        <Link to="/">
+          <Img fixed={data.file.childImageSharp.fixed} />
+        </Link>
+        <div
+          role="button"
+          tabIndex={0}
+          onClick={() => toggle(!navOpen)}
+          onKeyDown={() => toggle(!navOpen)}
+        >
+          {navOpen ? (
+            <Icon icon={closeIcon} width="32px" />
+          ) : (
+            <Icon icon={menu} width="32px" />
+          )}
+        </div>
       </div>
+      {navOpen && <NavMenu />}
     </>
   );
 };
