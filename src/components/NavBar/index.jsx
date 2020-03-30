@@ -45,9 +45,9 @@ export default () => {
           onKeyDown={() => toggle(!navOpen)}
         >
           {navOpen ? (
-            <Icon icon={closeIcon} width="32px" />
+            <Icon className={style.Toggle} icon={closeIcon} width="32px" />
           ) : (
-            <Icon icon={menu} width="32px" />
+            <Icon className={style.Toggle} icon={menu} width="32px" />
           )}
         </div>
       </div>
